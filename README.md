@@ -45,7 +45,7 @@ I'm also an aspiring entrepreneur with a focus on **chatbots** and **automated s
 ### 🔗 Connect with Me:
 
 <p align="center">
-  <a href="[https://linkedin.com/in/umer](https://www.linkedin.com/in/faizan-arif-032954251/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/faizan-arif-032954251/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:faizanarif1884@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.kaggle.com/faizanarif15" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
 </p>
