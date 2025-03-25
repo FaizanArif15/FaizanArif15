@@ -1,6 +1,6 @@
 #         Hi, I'm Faizan Arif
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0F9D58&lines=Welcome+to+my+GitHub+Profile!;AI%2C+ML%2C+NLP+Developer;Data+Scientist+%7C+Web+Scraping+Expert;Open+Source+Contributor+%7C+Freelancer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0F9D58&lines=Welcome+to+my+GitHub+Profile!;AI%2C+ML%2C+CV%2C+NLP+Developer;Data+Scientist+%7C+Web+Scraping+Expert;Open+Source+Contributor+%7C+Freelancer)](https://git.io/typing-svg)
 
 ---
 
