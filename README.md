@@ -9,7 +9,7 @@ Hi, I'm **Faizan**, a passionate **Data Scientist** and **AI Enthusiast** with e
 
 I'm also an aspiring entrepreneur with a focus on **chatbots** and **automated systems**. 🚀
 
-🌐 I'm currently enrolled in the **Data Science 7th Semester at PUCIT**.
+🌐 I'm currently enrolled in the **Data Science 8th Semester at PUCIT**.
 
 ---
 
