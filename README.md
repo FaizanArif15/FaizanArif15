@@ -19,10 +19,10 @@ I'm **Faizan**, a dedicated **Data Scientist** and **AI Developer** with hands-o
 - **Web Scraping & Automation** · **Data Analysis** · **Data Warehousing**
 
 #### 💻 Programming & Tools
-- **Python**, **HTML/CSS/JavaScript**, **SQL (MySQL)**
-- **FastAPI**, **BeautifulSoup**, **Selenium**
+- **Python**, **HTML/CSS/JavaScript**, **SQL (MySQL, PostgreSQL, MongoDB)**
+- **FastAPI**, **Django**=
 - **TensorFlow**, **PyTorch**, **spaCy**, **NLTK**, **Matplotlib**, **Plotly**
-- **Git**, **GitHub**
+- **Git**, **Docker**
 
 ---
 
@@ -41,7 +41,7 @@ I'm **Faizan**, a dedicated **Data Scientist** and **AI Developer** with hands-o
 1. **🤖 Question Answering RAG Model (Bahishti Zewar Urdu PDF)**
    - Custom Retrieval-Augmented Generation (RAG) pipeline using Urdu text.
    - Supports intelligent question-answering from a religious text in Urdu.
-   - [GitHub Repository](https://github.com/FaizanArif15/RAG-Bahishti-Zewar)
+   - [GitHub Repository](https://github.com/FaizanArif15/Bahishti-Zewar-QA-RAG)
 
 2. **🎵 Music Recommendation System**
    - NLP-powered FastAPI system to generate music suggestions based on input mood or query.
