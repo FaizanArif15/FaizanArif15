@@ -39,8 +39,8 @@ I'm **Faizan**, a dedicated **Data Scientist** and **AI Developer** with hands-o
 ### 🚀 Projects
 
 1. **🤖 Question Answering RAG Model (Bahishti Zewar Urdu PDF)**
-   - Custom Retrieval-Augmented Generation (RAG) pipeline using Urdu text.
-   - Supports intelligent question-answering from a religious text in Urdu.
+   - Custom Retrieval-Augmented Generation (RAG) pipeline using text.
+   - Supports intelligent question-answering from a religious text.
    - [GitHub Repository](https://github.com/FaizanArif15/Bahishti-Zewar-QA-RAG)
 
 2. **🎵 Music Recommendation System**
