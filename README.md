@@ -52,7 +52,6 @@ I have hands-on experience in **Machine Learning**, **Deep Learning**, **NLP**, 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FaizanArif15&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=FaizanArif15&theme=radical&hide_border=false" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanArif15&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
