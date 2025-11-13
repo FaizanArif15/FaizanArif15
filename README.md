@@ -10,7 +10,7 @@
 I'm **Faizan Arif**, a passionate **Data Scientist** and **Generative AI Engineer** specializing in building intelligent systems that merge data, language, and vision.  
 I have hands-on experience in **Machine Learning**, **Deep Learning**, **NLP**, and **Computer Vision**, developing real-world AI applications.
 
-🎓 **Education:** BS Data Science — PUCIT (Final Year)  
+🎓 **Education:** BS Data Science — PUCIT
 💼 **Current Role:** Associate GenAI Engineer @ Tkxel  
 🧠 **Focus Areas:** LLMs, RAG Systems, Generative AI, and Intelligent Automation  
 
