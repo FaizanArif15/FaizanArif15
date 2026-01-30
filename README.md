@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Faizan Arif  
-**ML and AI Engineer • Data Scientist**
+**AI Engineer**
 
 > Building intelligent systems powered by LLMs, RAG, and Generative AI.  
 > Currently working as **Associate GenAI Engineer @ Tkxel**.
